@@ -66,11 +66,11 @@ section.comfoto > p {
 }
 
 #foto2{
-    background: black url(imagens/codigos.jpg) center center no-repeat fixed;
+    background: black url(imagens/02.jpg) center center no-repeat fixed;
     background-size: cover;
 }
 
 #foto3 {
-    background: black url(imagens/pc.jpg) center center no-repeat fixed;
+    background: black url(imagens/03.jpg) center center no-repeat fixed;
     background-size: cover;
 }
